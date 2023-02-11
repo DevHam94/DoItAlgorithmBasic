@@ -1,6 +1,6 @@
 package chap01;
 
-public class Max4Practice {
+public class Q1Practice {
 
     static int max4(int a, int b, int c, int d){
         int max = a;

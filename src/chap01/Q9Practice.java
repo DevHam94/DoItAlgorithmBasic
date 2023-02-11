@@ -2,7 +2,7 @@ package chap01;
 
 import java.util.Scanner;
 
-public class SumDoWhilePractice {
+public class Q9Practice {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
 

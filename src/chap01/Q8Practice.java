@@ -2,7 +2,7 @@ package chap01;
 
 import java.util.Scanner;
 
-public class SumBtwPractice {
+public class Q8Practice {
     static int sumof(int a, int b){
         int sum = 0;
         for(int i = a; i <= b; i++){
